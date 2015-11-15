@@ -1,0 +1,14 @@
+{
+    "name": "snapshot/zf2-middleware",
+    "authors": [
+        {
+            "name": "Witold Wasiczko",
+            "email": "witold@wasiczko.pl"
+        }
+    ],
+    "require": {
+        "zendframework/zend-stdlib": "2.*",
+        "zendframework/zend-psr7bridge": "^0.2",
+        "zendframework/zend-stratigility": "^1.1.2"
+    }
+}
